@@ -36,4 +36,3 @@ class Food
     }
   }
 }
-["click here to get info"](https://google.com);
